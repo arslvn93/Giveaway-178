@@ -1,103 +1,107 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $500 French Dinner for Two in Toronto",
+    "navBrandLogoText": "Ed Dolatabadi",
+    "privacyPolicyLink": "https://torontorealestatemarket.ca/PrivacyPolicy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>$500 Dinner for Two</span> at Auberge du Pommier!",
+    "heroSubheadline": "Treat Mom to classic French dining in North York. Free to enter. Limited time. Draw is May 1st. Book your date any time.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/9fa7xabrjhrmw0cx3gr90cmqhg.jpg",
+    "promotionDates": "Enter April 2, 2026 to May 1, 2026. Winner announced May 1, 2026.",
+    "endDate": "2026-05-02T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Mother’s Day French Dining Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "successModalMainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in! We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip, book early if you want Mother’s Day. You can choose any date that fits you.",
+    "successModalEmailPrompt": "Watch your inbox on May 1st. Follow us on Facebook and Instagram for the winner post."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
-      "#FFFFFF"
+      "#111111",
+      "#FFFFFF",
+      "#FFEE58"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
+    "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs",
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in. We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip, book early if you want Mother’s Day. You can choose any date that fits you.",
+    "socialPromptText": "Watch your inbox on May 1st. Follow us on Facebook and Instagram for the winner post."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fhjryj86msrmt0cx3grtdhk3xw.jpg",
+        "alt": "Elegant French dining room with cozy fireplace"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/5yz2tmwvp5rmt0cx3gs86bkzr8.jpg",
+        "alt": "Romantic garden terrace in full bloom"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fwbashsnqnrmr0cx3gsvcj9ts8.jpg",
+        "alt": "Beautifully plated French dishes on white tablecloth"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/6qa7kn6kpnrmt0cx3gsr5r65tr.jpg",
+        "alt": "Entrance to a fine dining restaurant in North York"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-gift",
+        "text": "$500 gift card to Auberge du Pommier"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-utensils",
+        "text": "Dinner for two at a top North York restaurant"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-calendar-check",
+        "text": "Use on any date that fits your schedule, subject to availability"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-hand-holding-heart",
+        "text": "Hand delivered gift card to the winner in Toronto"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-concierge-bell",
+        "text": "Use toward your bill so you can relax and enjoy"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Mother’s Day French Dining Giveaway",
+    "value": "$500 Value",
+    "description": "Imagine a warm fire in winter and a flower filled terrace in summer. Calm. Elegant. Kind service. Fresh French food with a modern touch. Auberge du Pommier is one of North York’s best fine dining spots. It feels special. It makes memories. Use the gift card for a lovely dinner for two. Pick the date that works for you.",
+    "limitedTimeOfferText": "Mother’s Day Edition, Ends May 1",
+    "ctaButtonText": "I Want This Dinner!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-instagram",
-        "title": "Follow Instagram Account",
-        "description": "Follow our Instagram account to stay connected and get updates on the giveaway."
+        "icon": "fas fa-edit",
+        "title": "Follow me on Instagram",
+        "description": "Follow me @eddolatabadi_homes"
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer 4 Quick Questions",
+        "description": "Tell us a bit about your home plans."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You’re Entered!",
+        "description": "We pick a random winner on May 1. Watch your email."
       }
     ],
     "highlights": [
@@ -120,158 +124,169 @@ const config = {
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering. Ontario residents who are 18 or older can enter. One entry per person.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Ontario residents who are 18 or older. One entry per person."
+      },
+      {
+        "q": "When does it end?",
+        "a": "Entries close May 1, 2026 at 11:59 PM ET. We draw the same day."
       },
       {
         "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "a": "We will email the winner on May 1st. Check your inbox and spam."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I have to use it on Mother’s Day?",
+        "a": "No. You can pick any date that works for you, based on availability."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Do you book the reservation for me?",
+        "a": "No. The winner makes their own reservation with the restaurant."
+      },
+      {
+        "q": "What does the gift card cover?",
+        "a": "Use it toward your bill at the restaurant. Any extra costs are up to you."
+      },
+      {
+        "q": "How do I get the gift card?",
+        "a": "We hand deliver it in Toronto. If you live outside the city, we will arrange delivery with you."
+      },
+      {
+        "q": "Is Auberge du Pommier running this?",
+        "a": "No. This giveaway is by Ed Dolatabadi Real Estate Team. Not sponsored by the restaurant."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double check your email for typos, make sure you can be reached",
+      "If you want a popular date, consider booking early",
+      "Share the giveaway with family and friends",
+      "Follow Ed Dolatabadi on Instagram or Facebook for the winner post"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random draw. Every valid entry has the same chance. No tricks. No bias."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Please Read Before You Book",
+      "text": "We hand deliver the gift card to the winner and suggest booking early, as Mother’s Day is busy. The winner must make their own reservation. You can use the gift card on any date that works for you, based on availability. This giveaway is not sponsored by or affiliated with Auberge du Pommier."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-178.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-178.netlify.app%2Fadmin&text=Win%20%24500%20French%20Dinner%20for%20Two%20in%20Toronto"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details for a chance to win a $500 dinner for two!",
+    "entryCountText": "Many Toronto families have already entered. Don’t miss out!",
+    "socialSharePrompt": "Love this prize? Share it with friends and family:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
-      "questionText": "What do you like the most about your current home?",
+      "id": "q_auto_1750445840887_0",
+      "questionText": "What's your current situation?",
       "options": [
         {
-          "value": "The location",
-          "text": "The location"
+          "value": "I own my home",
+          "text": "I own my home"
         },
         {
-          "value": "The layout",
-          "text": "The layout"
+          "value": "I rent",
+          "text": "I rent"
         },
         {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
+          "value": "Live with family/friends",
+          "text": "Live with family/friends"
         },
         {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
+          "value": "Between homes",
+          "text": "Between homes"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
-      "questionText": "Is a move on your radar in the near future?",
+      "id": "q_auto_1750445840887_1",
+      "questionText": "What are you looking to do?",
       "options": [
         {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
+          "value": "Buy a home",
+          "text": "Buy a home"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Sell and buy",
+          "text": "Sell and buy"
         },
         {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
+          "value": "Rent a place",
+          "text": "Rent a place"
         },
         {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
+          "value": "Invest in property",
+          "text": "Invest in property"
+        },
+        {
+          "value": "Staying put",
+          "text": "Staying put"
         }
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
-      "questionText": "What’s your current housing situation?",
+      "id": "q_auto_1750445840887_2",
+      "questionText": "When are you planning to move?",
       "options": [
         {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
+          "value": "ASAP",
+          "text": "ASAP"
         },
         {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
+          "value": "3-6 months",
+          "text": "3-6 months"
         },
         {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
+          "value": "6-12 months",
+          "text": "6-12 months"
         },
         {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
+          "value": "12+ months",
+          "text": "12+ months"
+        },
+        {
+          "value": "No plans",
+          "text": "No plans"
         }
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/EdTorontoRealEstate/",
+      "instagram": "https://www.instagram.com/eddolatabadi_homes/"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Ed Dolatabadi",
+      "title": "REALTOR",
+      "phone": "416-629-9720",
+      "email": "ed@torontorealestatemarket.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "footerDisclaimer": "This giveaway is sponsored by Ed Dolatabadi at Royal LePage Signature and is not affiliated with Mother's Day French Dining Giveaway, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close 2026-05-01 at 11:59 PM ET. Winner selected at random on 2026-05-01. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "organizerLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1772493360514-EdDolatabadi_Logo_2020.png",
+    "secondaryLogoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1772493360514-EdDolatabadi_Logo_2020.png",
+    "secondaryLogoAlt": "Ed Dolatabadi Real Estate Team",
+    "organizerName": "Ed Dolatabadi Real Estate Team",
+    "brokerageName": "Royal LePage Signature",
+    "address": "8 Sampson Mews, Unit 202, Toronto, Ontario, M3C 0H5, Canada",
+    "email": "ed@torontorealestatemarket.ca",
+    "phone": "416-629-9720",
+    "copyrightOwner": "Ed Dolatabadi"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
-    "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "repoName": "Giveaway-178",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-178",
+    "netlifyUrl": "http://Giveaway-178.netlify.app",
+    "netlifyId": "1189903975",
+    "tag": "Mother’s Day French Dining Giveaway"
   }
 };
