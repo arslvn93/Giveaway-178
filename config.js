@@ -28,21 +28,16 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in. We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip, book early if you want Mother’s Day. You can choose any date that fits you.",
-    "socialPromptText": "Watch your inbox on May 1st. Follow us on Facebook and Instagram for the winner post."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/fhjryj86msrmt0cx3grtdhk3xw.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-AubergeduPommier2.jpg",
         "alt": "Elegant French dining room with cozy fireplace"
       },
       {
@@ -54,7 +49,7 @@ const config = {
         "alt": "Beautifully plated French dishes on white tablecloth"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/6qa7kn6kpnrmt0cx3gsr5r65tr.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-AubergeduPommier.jpg",
         "alt": "Entrance to a fine dining restaurant in North York"
       }
     ],
@@ -124,8 +119,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents who are 18 or older can enter. One entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -166,6 +159,8 @@ const config = {
       "Share the giveaway with family and friends",
       "Follow Ed Dolatabadi on Instagram or Facebook for the winner post"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents who are 18 or older can enter. One entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw. Every valid entry has the same chance. No tricks. No bias."
@@ -186,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1774549824162_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -208,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1774549824162_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -234,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1774549824162_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -260,6 +255,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in. We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip, book early if you want Mother’s Day. You can choose any date that fits you.",
+    "socialPromptText": "Watch your inbox on May 1st. Follow us on Facebook and Instagram for the winner post."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/EdTorontoRealEstate/",
