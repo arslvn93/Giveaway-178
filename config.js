@@ -122,7 +122,7 @@ const config = {
     "faq": [
       {
         "q": "Who can enter?",
-        "a": "Ontario residents who are 18 or older. One entry per person."
+        "a": " Toronto or GTA residents who are 18 or older. One entry per person."
       },
       {
         "q": "When does it end?",
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1775581028287_0",
+      "id": "q_auto_1775581129728_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1775581028287_1",
+      "id": "q_auto_1775581129728_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1775581028287_2",
+      "id": "q_auto_1775581129728_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
