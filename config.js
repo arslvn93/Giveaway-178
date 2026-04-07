@@ -5,10 +5,10 @@ const config = {
     "privacyPolicyLink": "https://torontorealestatemarket.ca/PrivacyPolicy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>$500 Dinner for Two</span> at Auberge du Pommier!",
+    "heroHeadline": "Giveaway: <span class='highlight'>A Mother's Day to Remember</span> at Auberge du Pommier!\n",
     "heroSubheadline": "Treat your Mom to classic French dining in North York. Free to enter. Limited time. Draw is May 1st. Book your date any time.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/9fa7xabrjhrmw0cx3gr90cmqhg.jpg",
-    "promotionDates": "Enter April 2, 2026 to May 1, 2026. Winner announced May 1, 2026.",
+    "promotionDates": "Enter April 10, 2026 to May 1, 2026. Winner announced May 1, 2026.",
     "endDate": "2026-05-02T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1774550073406_0",
+      "id": "q_auto_1775581028287_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1774550073406_1",
+      "id": "q_auto_1775581028287_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1774550073406_2",
+      "id": "q_auto_1775581028287_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -264,7 +264,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in. We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip, book early if you want Mother’s Day. You can choose any date that fits you.",
+    "mainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in. We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip: book early if you want Mother’s Day. You can choose any date that fits you.",
     "socialPromptText": "Watch your inbox on May 1st. Follow us on Facebook and Instagram for the winner post."
   },
   "footerContact": {
