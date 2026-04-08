@@ -12,7 +12,7 @@ const config = {
     "endDate": "2026-05-02T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
-    "name": "Mother’s Day French Dining Giveaway",
+    "name": "Giveaway: A Mother's Day to Remember at Auberge du Pommier",
     "successModalHeaderText": "You’re in the Draw!",
     "successModalMainMessage": "Your entry for the <strong>Mother’s Day French Dining Giveaway</strong> is in! We will draw on May 1, 2026 and email the winner. If you win, we will hand deliver your gift card. Tip, book early if you want Mother’s Day. You can choose any date that fits you.",
     "successModalEmailPrompt": "Watch your inbox on May 1st. Follow us on Facebook and Instagram for the winner post."
@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-AubergeduPommier2.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-MicroCMA.png",
         "alt": "Elegant French dining room with cozy fireplace"
       },
       {
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1775581129728_0",
+      "id": "q_auto_1775677593084_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1775581129728_1",
+      "id": "q_auto_1775677593085_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1775581129728_2",
+      "id": "q_auto_1775677593085_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
