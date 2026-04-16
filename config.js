@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Giveaway: <span class='highlight'>A Mother's Day to Remember</span> at Auberge du Pommier!\n",
     "heroSubheadline": "Treat your Mom to classic French dining in North York. Free to enter. Limited time. Draw is May 1st. Book your date any time.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/9fa7xabrjhrmw0cx3gr90cmqhg.jpg",
-    "promotionDates": "Enter April 10, 2026 to May 1, 2026. Winner announced May 1, 2026.",
+    "promotionDates": "Enter April 16, 2026 to May 1, 2026. Winner announced May 1, 2026.",
     "endDate": "2026-05-02T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
@@ -181,7 +181,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1776359005485_0",
+      "id": "q_auto_1776368955730_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -203,7 +203,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1776359005486_1",
+      "id": "q_auto_1776368955730_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1776359005486_2",
+      "id": "q_auto_1776368955730_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
